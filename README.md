@@ -16,7 +16,7 @@ I developed a README.me file generator, that can help my self and other web deve
 
 ## Motivation 
 
-undefined
+Readme is one of the basic parts of web/app developement. If so to have a good shaped and formated readme it is better to have a readme file generater. It will also saves your time to incorporate your inputs in to it. And will give you more time to work on your projects. 
 
 ## Instructions
 
